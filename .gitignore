@@ -1,3 +1,2 @@
-# Среды разработки
-.vscode/
-.theia/
+/.theia
+/.vscode
